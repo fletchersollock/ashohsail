@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iedeibiit.metascript.de/sitemap.xml
